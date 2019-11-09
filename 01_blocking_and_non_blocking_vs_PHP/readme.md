@@ -1,4 +1,4 @@
-###Diferences
+###Diferences in execution
 
 ##- PHP -
 Load: 160ms
@@ -8,7 +8,7 @@ Load: 160ms
 * Load non blocking: 74ms
 
 ##-- Notes --
-Excute code with node
+Execute code with node
 ```
     node <name file>
 ```
