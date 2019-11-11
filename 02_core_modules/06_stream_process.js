@@ -2,7 +2,6 @@
 
 const stdin = process.stdin;
 const stdout = process.stdout;
-const user = {};
 
 stdin.setEncoding('utf8');
 stdout.write(`
